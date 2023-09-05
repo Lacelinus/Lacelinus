@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ekrem</h1>
 <h3 align="center">A passionate python developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lacelinus&label=Profile%20views&color=0e75b6&style=flat" alt="lacelinus" /> </p>
-
 - 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **machine learning**
